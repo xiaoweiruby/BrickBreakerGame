@@ -1,0 +1,25 @@
+# Godot-specific ignores
+.godot/
+export_presets.cfg
+
+# OS generated files
+.DS_Store
+
+# Compiled Godot scripts
+*.gdc
+
+# User-specific settings
+*.user
+
+# External tools and dependencies
+# For example, if you use a C# project, you might want to ignore:
+.mono/
+.vs/
+bin/
+obj/
+
+# Crash logs
+*.crash
+
+# Temporary files
+*.tmp
